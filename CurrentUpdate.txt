@@ -2,3 +2,5 @@
 -Forest Revamp
 -Horror Update
 -Cool Reflections!
+-Ragdoll Mode
+(Press Secondary Button On Controller To Activate)
